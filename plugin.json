@@ -1,0 +1,13 @@
+{
+    "id": "com.github.cmeadows.mattermost-plugin-tableflip",
+    "name": "Tableflip",
+    "description": "Replicates the /shrug, but with (╯°□°)╯︵ ┻━┻",
+    "version": "0.0.1",
+    "server": {
+        "executables": {
+          "linux-amd64": "dist/plugin-linux-amd64",
+          "darwin-amd64": "dist/plugin-darwin-amd64",
+          "windows-amd64": "dist/plugin-windows-amd64.exe"
+        }
+    }
+}
