@@ -1,6 +1,6 @@
 # Tableflip Plugin
 
-This plugin acts just like the `\shrug` slash command, but its better. It adds the `(╯°□°)╯︵ ┻━┻` to your message.
+This plugin acts just like the `/shrug` slash command, but it's better. It adds the `(╯°□°)╯︵ ┻━┻` to your message.
 
 **Supported Mattermost Server Versions: 5.2+**
 
